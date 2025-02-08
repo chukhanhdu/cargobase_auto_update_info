@@ -1,5 +1,6 @@
 {
-  "version": "2.5.1",
+  "version": "2.5.2",
   "url": "https://chukhanhdu.github.io/cargobase_auto_update_info/mysetup.exe",
-  "changelog": "Nâng tốc độ xử lý của ONE, SITC, MP"
+  "changelog_2.5.1": "Nâng tốc độ xử lý của ONE, SITC, MP"
+  "changelog_2.5.2": "Sửa lỗi load của POD code khi load booking confirmation của MP"
 }
