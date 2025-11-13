@@ -1,10 +1,12 @@
 {
-  "version": "2.5.9",
+  "version": "2.6.0",
   "url": "https://drive.google.com/uc?export=download&id=15kPzG5XqStPyY8VyanVHqE2Ip_ISybC8",
   "changelog_2.5.1": "Nâng tốc độ xử lý của ONE, SITC, MP",
   "changelog_2.5.2": "Sửa lỗi load của POD code khi load booking confirmation của MP",
-  "changelog_2.5.9": "Update infor công ty mới, tối ưu hóa xử lý"
+  "changelog_2.5.9": "Update infor công ty mới, tối ưu hóa xử lý/renew các trườn của HBL",
+  "changelog_2.6.0": "Update Maersk button"
 }
+
 
 
 
